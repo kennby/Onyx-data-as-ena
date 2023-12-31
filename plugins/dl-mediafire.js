@@ -18,7 +18,7 @@ let handler = async (m, { conn, args, text, usedPrefix, command, isOwner, isPrem
     let { url, url2, filename, ext, aploud, filesize, filesizeH } = res
     let isLimit = limit * 1024 < filesize
     let caption = `
-   ≡ *MEDIAFIRE DL*
+   ≡ *MEDIAFIRE ONYX*
 
 *📌${mssg.name}:* ${filename}
 *⚖️${mssg.size}:* ${filesizeH}
@@ -37,7 +37,7 @@ ${isLimit ? `\n▢ ${mssg.limitdl} *+${free} MB* ${mssg.limitdlTe} *${prem} MB*`
    
 	   let isLimit = limit * 1024 < filesizeB
     let caption = `
-   ≡ *MEDIAFIRE DL 2*
+   ≡ *MEDIAFIRE ONYX 2*
 
 *📌${mssg.name}:* ${filename}
 *⚖️${mssg.size}:* ${filesize}
