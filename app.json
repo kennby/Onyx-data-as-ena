@@ -1,7 +1,7 @@
 {
-  "name": "senna-bot",
+  "name": "onyx-bot",
   "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/FG98F/senna-bot",
+  "repository": "https://github.com/kenn/onyx",
   "logo": "https://i.ibb.co/dfGQwxg/avatar-contact.jpgs",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "senna", "senna bot", "dylux-bot"]
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "onyx", "onyx bot", "kenn"]
 }
