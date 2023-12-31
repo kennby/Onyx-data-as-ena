@@ -12,7 +12,7 @@ let handler = async (m, { conn, text, args, usedPrefix, command }) => {
 
         if (data.result.video) {
             let tex = `
-┌─⊷ *TIKTOK DL* 
+┌─⊷ *ONYX TIKTOK* 
 ▢ *${mssg.name}:* ${data.result.author.name}
 ▢ *${mssg.username}:* ${data.result.author.unique_id}
 ▢ *${mssg.duration}:* ${data.result.video.durationFormatted}
