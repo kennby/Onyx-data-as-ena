@@ -13,7 +13,7 @@ let handler = async (m, { conn, text, args, isPrems, isOwner, usedPrefix, comman
 		let { title, dl_url, quality, size, sizeB } = yt
 		
 		conn.sendFile(m.chat, dl_url, title + '.mp3', `
- ≡  *FG YTDL*
+ ≡  *ONYX YTDL*
   
 ▢ *📌${mssg.title}* : ${title}
 ▢ *⚖️${mssg.size}* : ${size}
@@ -24,7 +24,7 @@ let handler = async (m, { conn, text, args, isPrems, isOwner, usedPrefix, comman
 		let yt = await fg.ytmp3(args[0])
         let { title, size, sizeB, dl_url } = yt
 		conn.sendFile(m.chat, dl_url, title + '.mp3', `
- ≡  *FG YTDL 2*
+ ≡  *ONYX YTDL 2*
   
 ▢ *📌${mssg.title}* : ${title}
 ▢ *⚖️${mssg.size}* : ${size}
