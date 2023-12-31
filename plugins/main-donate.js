@@ -5,9 +5,9 @@ let handler = async(m, { conn, usedPrefix, command }) => {
 ≡ ${mssg.donate}
 
 ▢ *PayPal*
-• *Link :* https://paypal.me/fg98f
+• *Link :* https://paypal.me/onyx
 
-▢ *Mercado Pago Arg*
+▢ *Mercado Pago per*
 • *Alias :* onyx
 
 ▢ *Naranja X Arg*
