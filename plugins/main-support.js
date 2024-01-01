@@ -2,7 +2,7 @@
 let handler = async (m, { conn }) => {
 
 m.reply(`
-≡  *${botName}ᴮᴼᵀ ┃ SUPPORT*
+≡  *${botName}ᴮᴼᵀ ┃ canales*
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
 ▢ Canal
@@ -17,22 +17,22 @@ ${bgp2}
 ▢ Grupo *NSFW* 🔞
 ${bgp3}
 
-▢ 𝐌𝐘 - 𝐌𝐚𝐲𝐥𝐮𝐱 | ᴮᴼᵀ⚡
-https://chat.whatsapp.com/CTILZXSriIE3M40anVyPT4
+▢ onyx | ᴮᴼᵀ⚡
+https://whatsapp.com/channel/0029VaEa55S0QeabqPOyfA19
 
-▢ 📲💻ANDROID WORLD🎬🎮
-https://chat.whatsapp.com/Ly4I2LObSvW8VgOnJjofgA
+▢ CANAL ONYX
+https://whatsapp.com/channel/0029VaEa55S0QeabqPOyfA19
 
 ◈ ━━━━━━━━━━━━━━━━━━━━ ◈
-▢ Todos los Grupos
- https://instabio.cc/fg98ff
+▢ canal general onyx
+ https://whatsapp.com/channel/0029VaEa55S0QeabqPOyfA19
 
-▢ *Telegram*
-• https://t.me/fgawgp
+▢ *canal*
+• https://whatsapp.com/channel/0029VaEa55S0QeabqPOyfA19
  ▢ *PayPal*
-• https://paypal.me/fg98f
+• https://paypal.me/onyxjsgs
 ▢ *YouTube*
-• https://www.youtube.com/fg98f`)
+• https://www.youtube.com/onyxjs`)
 
 }
 handler.help = ['support']
