@@ -15,7 +15,7 @@ let handler = async (m, { conn, text, args, isPrems, isOwner, usedPrefix, comman
   m.react('🎧') 
   
   let play = `
-	≡ *onyx play2*
+	≡ *𝙾𝙽𝚈𝚇 𝙿𝙻𝙰𝚈*
 ┌──────────────
 ▢ 📌 *${mssg.title}:* ${vid.title}
 ▢ 📆 *${mssg.aploud}:* ${vid.ago}
@@ -35,7 +35,7 @@ try {
      await conn.loadingMsg(m.chat, '📥 Descargando', ` ${isLimit ? `≡  *𝙾𝙽𝚈𝚇 𝙿𝙻𝙰𝚈*\n\n▢ *⚖️${mssg.size}*: ${size}\n▢ *🎞️${mssg.quality}*: ${quality}\n\n▢ _${mssg.limitdl}_ *+${limit} MB*` : '✅ Descarga Completada' }`, ["▬▭▭▭▭▭", "▬▬▭▭▭▭", "▬▬▬▭▭▭", "▬▬▬▬▭▭", "▬▬▬▬▬▭", "▬▬▬▬▬▬"], m)
      
 	  if(!isLimit) conn.sendFile(m.chat, dl_url, title + '.mp' + (3 + /vid$/.test(command)), `
- ≡  *onyx play*
+ ≡  *𝙾𝙽𝚈𝚇 𝙿𝙻𝙰𝚈*
   
 ▢ *📌Título* : ${title}
 ▢ *🎞️Calidad* : ${quality}
